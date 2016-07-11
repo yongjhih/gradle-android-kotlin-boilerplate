@@ -1,2 +1,6 @@
 include ':lib'
 include ':app'
+include ':eclipse-app'
+include ':eclipse-app2'
+include ':android-java-app'
+include ':android-java-lib'
