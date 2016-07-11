@@ -1,4 +1,6 @@
 
+modules:
+
 * app (kotlin + java)
 * lib (kotlin + java)
 * eclipse-app (kotlin + java)
